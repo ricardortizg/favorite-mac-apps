@@ -11,3 +11,6 @@
 ## Browsers
 * Safari - Native browser for MacOS.
 * [Brave](https://brave.com/) - Web browser designed for privacy and speed.
+
+## Development
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor
