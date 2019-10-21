@@ -10,4 +10,4 @@
 
 ## Browsers
 * Safari - Native browser for MacOS.
-* Brave - Web browser designed for privacy and speed.
+* [Brave] (https://brave.com/) - Web browser designed for privacy and speed.
