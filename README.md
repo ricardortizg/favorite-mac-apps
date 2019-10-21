@@ -1,12 +1,12 @@
 # Favorite MacOS Apps
 
 ## Media
-* VLC - Free, open-source, cross-platform multimedia player that plays most multimedia files.
+* [VLC](https://www.videolan.org/vlc/index.html) - Free, open-source, cross-platform multimedia player that plays most multimedia files.
 
 ## Utilities
-* 1Password - Cross-platform password management tool.
-* Brother Iprint / Scan
-* BetterZip  - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
+* [1Password](https://1password.com/) - Cross-platform password management tool.
+* [Brother Iprint&Scan](https://apps.apple.com/us/app/brother-iprint-scan/id1193539993?mt=12)- Brother iPrint&Scan is a free application that lets you easily scan to and print from your Mac.
+* [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 
 ## Browsers
 * Safari - Native browser for MacOS.
