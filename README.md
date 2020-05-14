@@ -10,6 +10,7 @@
 * [BetterZip](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [Turbo Boost Switcher](https://www.rugarciap.com/turbo-boost-switcher-for-os-x/) - MacOS application that disable the Turbo Boost feature, increasing the battery life by 25%.
 * [Hand Mirror](https://handmirror.app) - A one-click camera check, right from the menu bar.
+* [Micro Snitch](https://obdev.at/products/microsnitch/index.html) - It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
 
 
 ## Browsers
