@@ -2,6 +2,7 @@
 
 ## Media
 * [VLC](https://www.videolan.org/vlc/index.html) - Free, open-source, cross-platform multimedia player that plays most multimedia files.
+* [IINA](https://iina.io) - The modern media player for macOS.
 
 ## Utilities
 * [1Password](https://1password.com/) - Cross-platform password management tool.
